@@ -1,5 +1,5 @@
 ## Clustering Algorithms 
-This code was used to preform unsupervised clustering algorithm on a public dataset. [The dataset include U.S. Weather History] (https://github.com/fivethirtyeight/data/blob/master/us-weather-history/KPHL.csv) 
+This code was used to preform unsupervised clustering algorithm on a public dataset. [The dataset include U.S. Weather History](https://github.com/fivethirtyeight/data/blob/master/us-weather-history/KPHL.csv) 
 
 ## Data
 
