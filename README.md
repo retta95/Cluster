@@ -1,7 +1,7 @@
-## Clustering Algorithms 
+## Clustering Algorithms and packaging python code
 This code was used to preform unsupervised clustering algorithm on a public dataset. [The dataset include U.S. Weather History](https://github.com/fivethirtyeight/data/blob/master/us-weather-history/KPHL.csv) 
 
-## Data
+## Data:
 
 Column | Description
 ---|---------
@@ -21,7 +21,7 @@ Column | Description
 
 Source: [Weather Underground](http://wunderground.com)
 
-## Code
+## Code:
 unsupervised clustring algorithm preformed on the above data set specifically on actual_max_temp and record_max_temp_year column using k-means and hierarchical clustering
 
 ## K-Means:
@@ -30,4 +30,5 @@ K-means is a simple popular method for clustering used in many data analysis app
 ## Hierarchical clustering:
 It is a cluster analysis methond visualized as a dendrogram or a hierarchy. Agglomerative hierarchical, which is a bottom-up approach. Each point starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
 
+## Packaging Python Code:
 The code was packaged using [Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects/)
