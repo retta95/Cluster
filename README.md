@@ -35,6 +35,9 @@ The code was packaged using [Packaging Projects Tutorial](https://packaging.pyth
 The code was packaged under clusterRJ 0.0.1 using test.pypi.org. 
 The packaged code can be installed using: 
     pip install -i https://test.pypi.org/simple/clusterRJ 
+
 With Memory and CPU allocation of 1.5 MB and 6.8 MB/s
+
 Uploading clusterRJ-0.0.1-py3-none-any.whl: 1.48M/1.48M [00:01<00:00, 1.03MB/s] 
+
 Uploading clusterRJ-0.0.1.tar.gz:  1.48M/1.48M [00:02<00:00, 695kB/s] 
